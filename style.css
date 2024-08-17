@@ -1,0 +1,23 @@
+html {
+    background-color: rgb(139, 139, 139);
+}
+
+h2 {
+    color: rgb(48, 48, 48);
+}
+
+h3{
+    color: rgb(70, 70, 70);
+}
+
+q{
+    color: rgb(184, 0, 0);
+}
+
+blockquote{
+    color: rgb(20, 20, 20);
+}
+
+code{
+    color: rgb(111, 223, 0);
+}
